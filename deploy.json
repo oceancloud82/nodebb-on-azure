@@ -53,7 +53,7 @@
             "displayName": "appSettings"
           },
           "properties": {
-            "DOCKER_CUSTOM_IMAGE_NAME": "julienstroheker/nodebb-on-azure",
+            "DOCKER_CUSTOM_IMAGE_NAME": "nodebb/docker",
             "DOCKER_CUSTOM_IMAGE_RUN_COMMAND": "",
             "PORT": "4567"
           }
